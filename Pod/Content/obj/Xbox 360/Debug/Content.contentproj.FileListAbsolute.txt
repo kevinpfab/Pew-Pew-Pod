@@ -1,0 +1,2 @@
+C:\Users\Kevin\Documents\Visual Studio 2008\Projects\Pod\Pod\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Kevin\Desktop\Pod 3-7-2010 Final\Pod\Pod\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache

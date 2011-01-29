@@ -1,0 +1,4 @@
+Pod/bin/*
+Pod/Content/bin/*
+Pod/Content/Music/*
+Pod/obj/*
